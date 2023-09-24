@@ -1,2 +1,0 @@
-# interview-project
-interview-project
